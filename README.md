@@ -1,4 +1,4 @@
-A simple python based toolbox to get bbox2D for the SUNCG dataset.
+A simple python based toolbox to get bbox2D for the SUN_RGBD dataset.
 The sun-rgbd dataset can be downloaded from [here](http://rgbd.cs.princeton.edu/data/SUNRGBD.zip), please see the [offical webpage](http://rgbd.cs.princeton.edu/) for more details about the data.
 
 You can test the bbox annotation like this after dumps the lables_bbox2D.json file.
